@@ -29,8 +29,7 @@ It is a piezoelectric DC buzzer that generates audible beep-like sounds when giv
 
 ## Behavioural Design:
 
-### Schematic diagram 
-![image](https://user-images.githubusercontent.com/81153072/155899062-c086ad10-75bc-444c-8df9-b5e68a1d1cd8.png)
+
 
 
 
